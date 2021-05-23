@@ -13,6 +13,6 @@ class DemoApplicationTests {
     @Test
     void test() {
         // gitee test
-        System.out.println("ss")
+        System.out.println("ss");
     }
 }
